@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blood bank</string>
+    <string name="yeah_still_a_lot_to_do">Yeah Still A lot to Do !!</string>
+    <string name="wommygirl">Blood Denotaion</string>
+    <string name="skip">skip</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="Wommygirl">WommyGirl</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
